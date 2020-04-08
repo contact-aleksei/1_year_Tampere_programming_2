@@ -1,0 +1,3 @@
+246810;archie;Archie Architect;archie@tuni.fi;
+987654;mike;Mike Mechanic;mike@tuni.fi;-Mike-M-
+123456;ted;Ted Techie;ted@tuni.fi;tom_92_
