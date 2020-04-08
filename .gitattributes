@@ -1,3 +1,5 @@
 *.cpp linguist-detectable=true
 *.in linguist-detectable=false
 *.am linguist-detectable=false
+Makefile linguist-detectable=false
+makefile linguist-detectable=false
